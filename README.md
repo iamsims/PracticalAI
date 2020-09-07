@@ -1,14 +1,14 @@
 # PracticalAI
 
-1. ### Installation
-** Cloning the repository For code**:
+### Installation
+**Cloning the repository For code**:
 
-        git clone https://github.com/simran347/FaceRecognition.git
+       git clone https://github.com/simran347/FaceRecognition.git
 
       
 
 
-** Setting the enviroment  **
+**Setting the enviroment**
 
 * Create the Virtual Environment
 
@@ -19,7 +19,7 @@
 
 * Install Dependencies:
 
-		  pip install -r requirements.txt 
+      pip install -r requirements.txt 
 
 * Setting up the kernel in jupyter notebook 
 
